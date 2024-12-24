@@ -1,4 +1,4 @@
-package Automation;
+package com.selenium.test;
 
 /**
  * Hello world!
