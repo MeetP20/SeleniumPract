@@ -4,7 +4,7 @@ node {
             dir('RepoName') {
                 checkout([$class: 'GitSCM',
                     branches: [[name: 'main']],
-                    userRemoteConfigs: [[url: 'https://github.com/rajprajapati1997/JavascriptWithSelinumWebDriver.git']]
+                    userRemoteConfigs: [[url: 'https://github.com/MeetP20/SeleniumPract.git']]
                 ])
             }
         }
